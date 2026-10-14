@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:my_app_shkurskii/generator.dart';
+import 'generator.dart';
 
 const startAlignment = Alignment.topLeft;
 const endAlignment = Alignment.bottomRight;
@@ -21,7 +21,7 @@ class BackgroundContainer extends StatelessWidget {
         ),
       ),
       child: const Center(
-        
+        child: GeneratorQuotes(),
       ),
     );
   }

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:my_app_shkurskii/background.dart';
+import 'background.dart';
 
 void main() {
   runApp(
